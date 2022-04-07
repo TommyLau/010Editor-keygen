@@ -16,6 +16,10 @@ namespace _010Editor {
     };
 
     enum ReleaseDaystamp {
+        Version12 = 18887,
+        Version11 = 18535,
+        Version10 = 18236,
+        Version9 = 17814,
         Version8 = 17289,
         Version7 = 16883,
         Version6 = 16420,
